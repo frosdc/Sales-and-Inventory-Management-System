@@ -15,7 +15,7 @@ Inside the encrypted archive, you'll find:
 - Full project source code
 
 ---
-## 🖥️ Dashbaord Preview
+## 🖥️ Dashboard Preview
 ![Preview](sims.png)
 
 
