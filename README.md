@@ -3,3 +3,20 @@
 - **Backend:** PHP
 - **Database:** MySQL 
 - **Other Tools:** XAMPP
+---
+
+## 🔑 Access 
+- If you want to be authorized to access this project, please contact me directly.
+
+---
+
+## 📦 Content
+Inside the encrypted archive, you'll find:
+- Full project source code
+
+---
+## 🖥️ Dashbaord Preview
+![Preview](.jpg)
+
+
+© 2025 frosdc — All Rights Reserved
