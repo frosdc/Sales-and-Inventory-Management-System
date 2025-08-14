@@ -16,7 +16,7 @@ Inside the encrypted archive, you'll find:
 
 ---
 ## 🖥️ Dashbaord Preview
-![Preview](.jpg)
+![Preview](sims.png)
 
 
 © 2025 frosdc — All Rights Reserved
